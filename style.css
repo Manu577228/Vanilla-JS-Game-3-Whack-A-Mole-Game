@@ -23,13 +23,13 @@ h2 {
 
 .grid {
   display: grid;
-  grid-template-columns: repeat(3, 100px);
+  grid-template-columns: repeat(3, 125px);
   grid-gap: 10px;
 }
 
 .square {
-  height: 100px;
-  width: 100px;
+  height: 125px;
+  width: 125px;
   border: 1px solid black;
   display: flex;
   align-items: center;
